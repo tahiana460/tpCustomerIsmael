@@ -13,7 +13,7 @@ import mg.itu.tpcustomerismael.entity.Customer;
 import mg.itu.tpcustomerismael.service.CustomerManager;
 
 /**
- *
+ * Backing bean de la page customerList.xhtml
  * @author ASPIRE
  */
 @Named(value = "customerBean")
